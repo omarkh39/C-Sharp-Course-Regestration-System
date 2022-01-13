@@ -1,5 +1,5 @@
 # C#-Course-Regestration-System
-One of my project, This GUI C# Project that interacts with local data base Allwos student to log in then add/delete course in easy and simple GUI way.
+One of my project, This GUI C# Project that interacts with local data base that Allow students to log in then add/delete course in easy and simple GUI way.
 
 
 
